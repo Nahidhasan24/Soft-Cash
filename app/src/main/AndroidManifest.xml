@@ -10,11 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SoftCash">
         <activity
+
             android:name=".Login_Page"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,9 +24,7 @@
             </intent-filter>
         </activity>
 
-        <meta-data
-            android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
+
     </application>
 
 </manifest>
