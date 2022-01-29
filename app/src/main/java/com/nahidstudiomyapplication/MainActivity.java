@@ -11,7 +11,7 @@ import com.nahidstudiomyapplication.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button button;
+    Button click_button;
 
 
 
@@ -20,15 +20,17 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        button = findViewById(R.id.button);
+        click_button = findViewById(R.id.click_button);
 
-        button.setOnClickListener(new View.OnClickListener() {
+        click_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, Login_Page.class);
                 startActivity(intent);
             }
         });
+
+
 
 
 
