@@ -14,12 +14,11 @@ public class MainActivity extends AppCompatActivity {
     Button button;
 
 
-    ActivityMainBinding binding;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        binding=ActivityMainBinding.inflate(getLayoutInflater());
-        setContentView(binding.getRoot());
+        setContentView(R.layout.activity_main);
 
         button = findViewById(R.id.button);
 
