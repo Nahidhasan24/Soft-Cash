@@ -1,0 +1,17 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="0123456789ABCDEF" />
+          </Key>
+        </key>
+        <name value="Symphony i10 plus" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
