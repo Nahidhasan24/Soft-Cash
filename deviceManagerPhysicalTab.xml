@@ -8,6 +8,18 @@
             <value value="0123456789ABCDEF" />
           </Key>
         </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+        <api value="1" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-03-13T10:51:21.282223100Z" />
         <name value="Symphony i10 plus" />
         <target value="Android 7.0" />
         <api value="24" />
