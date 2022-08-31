@@ -5,7 +5,7 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="0123456789ABCDEF" />
+            <value value="192.168.0.100:5555" />
           </Key>
         </key>
         <name value="Symphony i10 plus" />
@@ -16,10 +16,9 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.0.100:5555" />
+            <value value="0123456789ABCDEF" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-13T11:28:11.368973200Z" />
         <name value="Symphony i10 plus" />
         <target value="Android 7.0" />
         <api value="24" />
