@@ -4,7 +4,7 @@
     <property name="created">2022-03-13T01:13:38</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.21</property>
-    <property name="modified">2022-03-13T01:18:34</property>
+    <property name="modified">2022-10-03T01:13:30</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -65,7 +65,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5cc5" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5cc5" />
     <option name="FILESTATUS_OBSOLETE" value="6a737d" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
+    <option name="FILESTATUS_RENAMED" value="a626a4" />
     <option name="FILESTATUS_SUPPRESSED" value="6a737d" />
     <option name="FILESTATUS_SWITCHED" value="e36209" />
     <option name="FILESTATUS_UNKNOWN" value="e36209" />
@@ -1590,11 +1590,6 @@
         <option name="FOREGROUND" value="d73a49" />
       </value>
     </option>
-    <option name="MARKDOWN_BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="MARKDOWN_BOLD_MARKER">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -1680,11 +1675,6 @@
       <value>
         <option name="FOREGROUND" value="e36209" />
         <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="MARKDOWN_ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN_ITALIC_MARKER">
