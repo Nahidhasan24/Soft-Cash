@@ -8,9 +8,9 @@
             <value value="192.168.0.100:5555" />
           </Key>
         </key>
-        <name value="Symphony i10 plus" />
-        <target value="Android 7.0" />
-        <api value="24" />
+        <name value="samsung SM-J600G" />
+        <target value="Android 10.0" />
+        <api value="29" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
